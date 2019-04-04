@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C6FA1A37-9FCB-449E-9C20-34EB7922DB3B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Engines FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Engines/Contracts/Player.cs">
+    <Files>
+      <File FileName="Engines/Contracts/Player.cs" Line="8" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChessGame" expanded="True">
+            <Node name="ChessGame" expanded="True" />
+            <Node name="Engines" expanded="True">
+              <Node name="Contracts" expanded="True">
+                <Node name="Player.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChessGame FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
